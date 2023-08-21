@@ -10,7 +10,7 @@ I am a BSME undergrad student at the University of Southeastern Philippines. Des
 - ❓ Won't engineering and software development bring a versatile toolkit?
 
 
-##Skills:
+## Skills:
 HTML
 CSS
 JavaScript
